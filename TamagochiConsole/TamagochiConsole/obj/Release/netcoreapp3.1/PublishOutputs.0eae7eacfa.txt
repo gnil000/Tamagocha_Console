@@ -1,0 +1,6 @@
+C:\Games\myTamagocha\TamagochiConsole.exe
+C:\Games\myTamagocha\TamagochiConsole.dll
+C:\Games\myTamagocha\TamagochiConsole.deps.json
+C:\Games\myTamagocha\TamagochiConsole.runtimeconfig.json
+C:\Games\myTamagocha\TamagochiConsole.pdb
+C:\Games\myTamagocha\KeystrokeAPI.dll

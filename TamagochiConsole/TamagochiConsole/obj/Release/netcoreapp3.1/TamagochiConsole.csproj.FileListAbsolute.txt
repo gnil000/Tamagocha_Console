@@ -1,0 +1,16 @@
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\bin\Release\netcoreapp3.1\TamagochiConsole.exe
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\bin\Release\netcoreapp3.1\TamagochiConsole.deps.json
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\bin\Release\netcoreapp3.1\TamagochiConsole.runtimeconfig.json
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\bin\Release\netcoreapp3.1\TamagochiConsole.runtimeconfig.dev.json
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\bin\Release\netcoreapp3.1\TamagochiConsole.dll
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\bin\Release\netcoreapp3.1\TamagochiConsole.pdb
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\bin\Release\netcoreapp3.1\KeystrokeAPI.dll
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.csproj.AssemblyReference.cache
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.AssemblyInfoInputs.cache
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.AssemblyInfo.cs
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.csproj.CoreCompileInputs.cache
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.csproj.CopyComplete
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.dll
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.pdb
+C:\Users\Елена\source\repos\TamagochiConsole\TamagochiConsole\obj\Release\netcoreapp3.1\TamagochiConsole.genruntimeconfig.cache

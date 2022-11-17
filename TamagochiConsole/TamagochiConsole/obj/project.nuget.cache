@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqOqGpjent3w7y0RjqSJxcYwSHXFVlpQ/qhkFznwt9Hoe9g2dM97rqAc3YIYoU0bc5xhvIIVARQYCWjYu0kZeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Елена\\source\\repos\\TamagochiConsole\\TamagochiConsole\\TamagochiConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Елена\\.nuget\\packages\\keystrokeapi\\1.0.6.4\\keystrokeapi.1.0.6.4.nupkg.sha512",
+    "C:\\Users\\Елена\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"KeystrokeAPI 1.0.6.4\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "KeystrokeAPI",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
